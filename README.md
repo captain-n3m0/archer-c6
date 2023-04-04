@@ -1,7 +1,7 @@
 # archer-c6
 OpenWRT self compiled image for Archer C6.
 
-![alt text]
+![alt text](https://github.com/captain-n3m0/archer-c6/blob/main/resource/openwrt-logo.png)
 
 * Your warranty is void. Or valid, probably?
 
